@@ -2,6 +2,7 @@ const bankData = [
   { title: "هانكوك", rank: "المؤسسة", money: "∞" },
   { title: "روكيا", rank: "المؤسسة", money: "∞" },
   { title: "اليستارا", rank: "المؤسسة", money: "∞" },
+  { title: "كاناو", rank: "المؤسسة", money: "∞" },
   { title: "--", rank: "النواب", money: "∞" },
   { title: "--", rank: "المستشارة", money: "--" },
   { title: "--", rank: "الجنراله", money: "--" },
